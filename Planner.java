@@ -1,16 +1,3 @@
-// Name: Manahari Dahal        Date Assigned: 23 March 2017
-
-// Course: CSCI 2003 42733     Date Due: 29 March 2017
-
-// Instructor: Ms. Greer
-//
-// File name: Planner
-//
-// Program Description: This program simulates a planner. The program allows the user to add a new event to the planner,
-//                      and display all the events currently stored in the planner, or to quit the program.
-//
-
-
 import java.io.File;                   // importing file class from io package
 import java.util.Scanner;              // importing scanner class to create scanner object
 import java.io.FileNotFoundException;  // importing to handle fileexception error
